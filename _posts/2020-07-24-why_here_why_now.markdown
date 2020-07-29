@@ -6,7 +6,7 @@ permalink:  why_here_why_now
 ---
 
 <style>
-body {background = none}
+header {background: none}
 </style>
            
  Why did I decide to study software engineering? Hmmm... where do I start? I can't exactly remember the first moment it began, but I've always loved to fix things. Maybe it started with my bike as a kid. Instead of going to ask my dad to fix my bike, which I had just broken for the who-knows-how-many-th time, I simply ran into the laundry room where the tools were kept and started tinkering away at my bike until it rode the way I thought it was supposed to. That kind of tinkering turned into tryig to fix VCR's when movies got stuck inside. This trend continued through my life with whatever thing may be presenting me and inevitably all of my loved ones with problems, quickly becoming the families resident IT guy. 
