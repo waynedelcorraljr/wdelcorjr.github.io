@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Why here? Why now?"
+title:      "Why here?. Why now?"
 date:       2020-07-24 22:52:58 -0400
 permalink:  why_here_why_now
 ---
@@ -8,7 +8,6 @@ permalink:  why_here_why_now
 <style>
 header {
 color: black;
-background: none;
 }
 </style>
            
